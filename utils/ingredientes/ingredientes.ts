@@ -1,0 +1,17 @@
+export const ingredientes = [
+  "Pollo",
+  "Peperoni",
+  "Tomate",
+  "Salchichas",
+  "Jamon",
+  "Arandanos",
+  "Miel",
+  "Queso Mozarella",
+  "Tocineta",
+  "Piña",
+  "Salsa Roja",
+  "Albahaca",
+  "Chicharron",
+  "Maiz",
+  "Ajo",
+];

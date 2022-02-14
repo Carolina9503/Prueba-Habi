@@ -1,0 +1,5 @@
+.card_group {
+  /* width: 60%; */
+  display: flex;
+  flex-wrap: wrap;
+}

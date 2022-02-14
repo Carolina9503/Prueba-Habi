@@ -1,0 +1,14 @@
+.input {
+  background-color: white;
+  border: 1px solid gray;
+  padding: 0.5rem 1rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  appearance: none;
+  border-radius: 0.25rem;
+}
+.input:active,
+.input:focus {
+  border-color: black;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem blue;
+}
